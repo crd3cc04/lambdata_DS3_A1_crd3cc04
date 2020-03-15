@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
     name="my_lambadata1",
-    version="1.0",
+    version="2.0",
     author="Cortesha RosaRobinson",
     author_email="crd3cc04@gmail.com",
     description="Function for creating new column and putting in dataframe",
